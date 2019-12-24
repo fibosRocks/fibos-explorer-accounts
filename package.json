@@ -1,5 +1,5 @@
 {
-  "name": "fibos-accounts",
+  "name": "fibos-explorer-accounts",
   "main": "./lib/",
   "version": "1.0.1",
   "description": "fibos-tracker accounts module",
